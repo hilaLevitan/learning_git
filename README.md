@@ -20,3 +20,4 @@ git commit -am "message"
  git pull
  ```
 :smile:
+[visit list](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
