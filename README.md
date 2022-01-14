@@ -19,3 +19,4 @@ git commit -am "message"
  ```cmd
  git pull
  ```
+:smile:
